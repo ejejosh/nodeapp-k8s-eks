@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ejejosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "server.js"
+  },
+  "description": ""
+}
